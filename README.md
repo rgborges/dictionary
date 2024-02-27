@@ -1,5 +1,10 @@
-# Dicsearch
+# Introduction
 
+A simple dictionary SPA that communicates with https://dictionaryapi.dev/ to search a word in English language, and then present its definition on screen.
+
+This is for demo reason only.
+
+## Default build instructions
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
 
 ## Development server
